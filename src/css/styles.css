@@ -16,7 +16,7 @@ h1{
 }
 
 .container{
-    background-color: #eee;
+    background-color: goldenrod;
     width: 15%;
     top: 0px;
     position: absolute;
@@ -40,7 +40,7 @@ h1{
 .jar-walls{
     height: 80%;
     width: 60%;
-    background: powderblue;
+    background: goldenrod;
     border-radius: 1rem;
     position: absolute;
     bottom: 0.5%;
@@ -52,7 +52,7 @@ h1{
 .jar-top{
     width: 50%;
     height: 5%;
-    background: powderblue;
+    background: goldenrod;
     position: absolute;
     bottom: 80.5%;
     left: 25%;
@@ -63,7 +63,7 @@ h1{
 .jar-bottom{
     width: 50%;
     height: 1%;
-    background: powderblue;
+    background: goldenrod;
     position: absolute;
     bottom: 0%;
     left: 25%;
