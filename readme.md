@@ -1,0 +1,2 @@
+Añadiendo diferentes capas de color en el css consiguimos formar la imagen del jarron para nuestro terrario dando clases a diferentes elementos 
+esta fue la primera vez que usamos el java y con el conseguimos que las imagenes de las plantas queden en los laterales y podamos arrastrarlas al interior de nuestro jarron
